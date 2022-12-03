@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe8ec86.css",
-    "main.js": "/static/js/main.d85d21a9.js",
-    "static/media/macbook-air-m2.png": "/static/media/macbook-air-m2.a1b9c1de4a26a2746405.png",
-    "static/media/macbook-pro-13.png": "/static/media/macbook-pro-13.f9051572429e237730ff.png",
-    "static/media/macbook-air-m1.png": "/static/media/macbook-air-m1.8798084da9996b54cdcf.png",
-    "static/media/apple-watch-ultra.png": "/static/media/apple-watch-ultra.7a72a3e746e0ba524acf.png",
-    "static/media/apple-watch-8.png": "/static/media/apple-watch-8.6d5fd0132fef053dba10.png",
-    "static/media/apple-watch-hermes.png": "/static/media/apple-watch-hermes.bec28c643f92ce20cd17.png",
-    "static/media/iphone-14-plus.png": "/static/media/iphone-14-plus.55f7ed1f58ccb515e7d3.png",
-    "static/media/iphone-14-pro-max.png": "/static/media/iphone-14-pro-max.ef8760092b0189dda2e1.png",
-    "static/media/iphone-12.png": "/static/media/iphone-12.9c7352cf692ed7496274.png",
-    "static/media/iphone-13.png": "/static/media/iphone-13.7a7875294fea194e744d.png",
-    "static/media/apple-watch-se.png": "/static/media/apple-watch-se.ebf4030f9ac6de71031f.png",
-    "static/media/bg-apple.jpg": "/static/media/bg-apple.89582b8999a6a683910b.jpg",
-    "static/media/macbook-pro-14-16-202206.png": "/static/media/macbook-pro-14-16-202206.dabaf347afcfc5ccd75e.png",
-    "index.html": "/index.html",
-    "main.abe8ec86.css.map": "/static/css/main.abe8ec86.css.map",
-    "main.d85d21a9.js.map": "/static/js/main.d85d21a9.js.map"
+    "main.css": "/shopping-cart/static/css/main.c1ac1281.css",
+    "main.js": "/shopping-cart/static/js/main.ebd5f170.js",
+    "static/media/macbook-air-m2.png": "/shopping-cart/static/media/macbook-air-m2.a1b9c1de4a26a2746405.png",
+    "static/media/macbook-pro-13.png": "/shopping-cart/static/media/macbook-pro-13.f9051572429e237730ff.png",
+    "static/media/macbook-air-m1.png": "/shopping-cart/static/media/macbook-air-m1.8798084da9996b54cdcf.png",
+    "static/media/apple-watch-ultra.png": "/shopping-cart/static/media/apple-watch-ultra.7a72a3e746e0ba524acf.png",
+    "static/media/apple-watch-8.png": "/shopping-cart/static/media/apple-watch-8.6d5fd0132fef053dba10.png",
+    "static/media/apple-watch-hermes.png": "/shopping-cart/static/media/apple-watch-hermes.bec28c643f92ce20cd17.png",
+    "static/media/iphone-14-plus.png": "/shopping-cart/static/media/iphone-14-plus.55f7ed1f58ccb515e7d3.png",
+    "static/media/iphone-14-pro-max.png": "/shopping-cart/static/media/iphone-14-pro-max.ef8760092b0189dda2e1.png",
+    "static/media/iphone-12.png": "/shopping-cart/static/media/iphone-12.9c7352cf692ed7496274.png",
+    "static/media/iphone-13.png": "/shopping-cart/static/media/iphone-13.7a7875294fea194e744d.png",
+    "static/media/apple-watch-se.png": "/shopping-cart/static/media/apple-watch-se.ebf4030f9ac6de71031f.png",
+    "static/media/bg-apple.jpg": "/shopping-cart/static/media/bg-apple.89582b8999a6a683910b.jpg",
+    "static/media/macbook-pro-14-16-202206.png": "/shopping-cart/static/media/macbook-pro-14-16-202206.dabaf347afcfc5ccd75e.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.c1ac1281.css.map": "/shopping-cart/static/css/main.c1ac1281.css.map",
+    "main.ebd5f170.js.map": "/shopping-cart/static/js/main.ebd5f170.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe8ec86.css",
-    "static/js/main.d85d21a9.js"
+    "static/css/main.c1ac1281.css",
+    "static/js/main.ebd5f170.js"
   ]
 }
