@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.c1ac1281.css",
-    "main.js": "/shopping-cart/static/js/main.1c82b9d4.js",
+    "main.js": "/shopping-cart/static/js/main.a1fe0f43.js",
     "static/media/macbook-air-m2.png": "/shopping-cart/static/media/macbook-air-m2.a1b9c1de4a26a2746405.png",
     "static/media/macbook-pro-13.png": "/shopping-cart/static/media/macbook-pro-13.f9051572429e237730ff.png",
     "static/media/macbook-air-m1.png": "/shopping-cart/static/media/macbook-air-m1.8798084da9996b54cdcf.png",
@@ -17,10 +17,10 @@
     "static/media/macbook-pro-14-16-202206.png": "/shopping-cart/static/media/macbook-pro-14-16-202206.dabaf347afcfc5ccd75e.png",
     "index.html": "/shopping-cart/index.html",
     "main.c1ac1281.css.map": "/shopping-cart/static/css/main.c1ac1281.css.map",
-    "main.1c82b9d4.js.map": "/shopping-cart/static/js/main.1c82b9d4.js.map"
+    "main.a1fe0f43.js.map": "/shopping-cart/static/js/main.a1fe0f43.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ac1281.css",
-    "static/js/main.1c82b9d4.js"
+    "static/js/main.a1fe0f43.js"
   ]
 }
