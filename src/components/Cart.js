@@ -6,6 +6,8 @@ import CartItem from "./CartItem";
 const Cart = (props) => {
   const [products, setProducts] = useState(
     JSON.parse(localStorage.getItem("cart"))
+      ? JSON.parse(localStorage.getItem("cart"))
+      : []
   );
 
   const removeProduct = (id) => {
